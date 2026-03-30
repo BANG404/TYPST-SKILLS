@@ -1,7 +1,10 @@
 ---
 name: typst
 description: This skill should be used when the user asks to "write a Typst document", "create a Typst template", "style a document with Typst", "format text in Typst", "add math equations in Typst", "create a table in Typst", "set up page layout in Typst", "write a Typst function", "use set rules or show rules", "import a Typst package", or any task involving writing or editing `.typ` files.
-version: 0.1.0
+license: MIT
+metadata:
+  version: 0.1.0
+  author: BANG404
 ---
 
 # Typst
